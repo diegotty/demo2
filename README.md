@@ -1,8 +1,4 @@
 # demo2
-yessir
-yeah
+geez
 # instructions ig
-1 grind
-2 work hard
-3 play hard
-4 gatorade
+yes
